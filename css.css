@@ -1,0 +1,44 @@
+body{
+	background-color:#000; 
+}
+
+.image_tab {
+	list-style:none; !important;
+}
+
+.image_tab li {
+	float:left; !important;
+	margin-left:10px; /* If you want to give sapce between each li or image */
+}
+
+.image_tab img { /* This is the height & width of the image */
+	height:90px;
+	width:90px;
+}
+
+
+/* here it is the content */
+.TabContent .content {
+	background-color:#0F0;
+	float:left; 
+	width:290px;
+	margin-left:50px;
+	margin-top:00px;
+
+}
+
+.Main_Container {
+	width:400px;	
+	background-color:#F00;
+}
+
+.TabContent {
+	width:400px;
+	background-color:#CCC;
+}
+
+
+
+
+
+
