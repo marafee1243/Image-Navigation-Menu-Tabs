@@ -1,6 +1,4 @@
 Image Navigation Menu Tabs v 1.0
-Created on 11th December 2011
-By M A Rafee
 
 Special and all Credits goes to 
 
@@ -8,9 +6,6 @@ jQuery Foundation / Developers
 Experts on Stackoverflow.com
 My Colleques [ who were looking for this type of navigation image tab system, but couldn't. At last.. We phew.. they got it. ]
 And Others.
-
-	- Rafee : marafee1243@gmail.com
-	- username : user@domain.com
 
 // ----------------------------------------------------------------------------------- //
 
